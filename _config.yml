@@ -18,8 +18,8 @@ email: josh@parade.events
 description: >- # this means to ignore newlines until "baseurl:"
   Parade Events is dedicated to providing a platform for Northeastern students
   to discover awesome events on campus!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://parade.events" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://blog.parade.events" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  joshspicer
 
