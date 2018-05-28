@@ -17,7 +17,8 @@ title: parade
 email: josh@parade.events
 description: >- # this means to ignore newlines until "baseurl:"
     various thoughts and opinions from the parade team
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog  <-- Prod
+# baseurl: "" # the subpath of your site, e.g. /blog  <-- Dev
 url: "https://parade.events" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  joshspicer

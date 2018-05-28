@@ -3,6 +3,7 @@
 */
 
 * {
+ font-family: 'Quicksand', sans-serif; //josh
  box-sizing: border-box !important;
  margin: 0; }
 
@@ -15,12 +16,12 @@ button {
  line-height: inherit;
 }
 
-
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+h1, h2, h3, h4, h5, h6, blockquote, pre, hr,
+dl, dd, figure, time {
     margin: 0;
     padding: 0;
+    color: $color-body-text;
+
 }
 
 
@@ -30,8 +31,11 @@ dl, dd, ol, ul, figure {
 body {
     font-family: $body-font-family;
     font-size: $body-font-size;
+    margin: 0;
+    padding: 0;
     line-height: 1.5;
-    color: $color-body-text;
+    // color: $color-body-text;
+    color: #000;
     background-color: #fff;
 }
 
@@ -53,8 +57,8 @@ h5, .h5 { font-size: $h5-size; }
 h6, .h6 { font-size: $h6-size; text-transform: uppercase; letter-spacing: 0.02em; }
 
 a {
-  color: inherit;
-  // text-decoration: none;
+  color: $color-body-text;
+  text-decoration: none;
 }
 
 a:hover {

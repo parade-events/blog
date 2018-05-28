@@ -4,7 +4,7 @@ title:  "Meet Parade at Orientation"
 date:   2018-05-27 18:18:30 -0400
 author: Josh Spicer
 categories: update
-permalink: /posts/orientation-tabling/
+permalink: /orientation-tabling/
 
 ---
 Every Northeastern student remembers the rush of emotion walking into their Activities Fair on the first night of orientation.  The moment feels so surreal walking through the endless line of (literally) hundreds of different clubs.  I walked into mine having no idea which clubs I wanted to meet with, or really what to do.  I signed up for dozens of emails lists, but ended up not finding any of the clubs that, today, I am really involved and interested in.
