@@ -9,8 +9,11 @@
       {% for my_page in site.pages %}
         {% if my_page.title %}
         <li class="inline-block">
-          <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="{{ my_page.url | prepend: site.baseurl }}">
+          <!-- <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="{{ my_page.url | prepend: site.baseurl }}">
             {{ my_page.title }}
+          </a> -->
+          <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="https://parade.events/">
+            Home
           </a>
         </li>
         {% endif %}
