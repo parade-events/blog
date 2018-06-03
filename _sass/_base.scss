@@ -5,7 +5,8 @@
 * {
  font-family: 'Quicksand', sans-serif; //josh
  box-sizing: border-box !important;
- margin: 0; }
+ margin: 0;
+}
 
 input,
 select,
@@ -16,14 +17,13 @@ button {
  line-height: inherit;
 }
 
-h1, h2, h3, h4, h5, h6, blockquote, pre, hr,
-dl, dd, figure, time {
+h1, h2, h4, h5, h6, blockquote, pre, hr,
+dl, dd, figure {
     margin: 0;
     padding: 0;
     color: $color-body-text;
 
 }
-
 
 /**
  * Basic styling
