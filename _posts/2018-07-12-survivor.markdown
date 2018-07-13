@@ -3,6 +3,7 @@ layout: post
 title:  "Why you should play Survivor Northeastern"
 date:   2018-07-12
 author: Josh Spicer
+authorLink: https://joshspicer.com
 categories: update
 permalink: /survivor-northeastern/
 
