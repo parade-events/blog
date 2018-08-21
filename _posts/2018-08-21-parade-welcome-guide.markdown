@@ -107,10 +107,6 @@ of the expanded event's details page.
 Events and orgs can be easily shared. On iOS, a page will pop up presenting different sharing options. Anybody **logged into the app**
 can tap this link on their phone and be brought directly to the event or org.
 
-For example, [tapping this](https://parade.events/o/5b7b5479b04daa3649807287) on your phone will open the Parade org.
-
-Users must login before using this link.
-
 <a id="userProfile"></a>
 <h2>Personal User Profile</h2>
 Tapping on your name in the side menu navigates to your personal profile. Your profile keeps track of events you've shown interest in, as
