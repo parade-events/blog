@@ -41,7 +41,7 @@ on that section in the table of contents.  Let's get started!
 
 For our pilot, all students will need to login with their **husky gmail account**. Once opting to sign-in with Google, type in your entire husky email `(<lastname.f>@husky.neu.edu)`. You'll then be redirected to the familiar Northeastern single sign on page. We never store (or even see) your password.
 
-If this is your first time logging in, you'll be directed to registration.  You'll be ask to pick at least three *tags*. Tags are pieces of data that
+If this is your first time logging in, you'll be directed to registration.  You'll be asked to pick at least three *tags*. Tags are pieces of data that
 we use to curate your Parade experience.  Tags could be a college like `CCIS`, a theme like `community`, or like my personal favorite `free food`. You may pick as many tags as you'd like. You can view or edit your tags later by visiting your **User Profile** (more on that later).
 
 <a id="addingOrg"></a>
