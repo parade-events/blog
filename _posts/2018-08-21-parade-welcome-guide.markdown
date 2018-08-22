@@ -15,7 +15,9 @@ Everybody on The Parade Team is *so* excited to get Parade in the hands of stude
 we encourage student leaders to add their organizations, and for all students to get a feel for how to navigate the app before the fall!
 
 I'm writing this guide to (hopefully) clarify any questions you may have about navigating Parade. Feel free to skip around to a particular section by clicking
-on that section in the table of contents.  Let's get started!
+on that section in the table of contents.
+
+If you're a Northeastern student, you can download the iOS app NOW by [clicking here](https://itunes.apple.com/us/app/parade-events/id1380171412?ls=1&mt=8)!
 
 ![betaAd]({{site.url}}/{{site.baseurl}}/assets/resources-welcome/betaAd.png)
 
@@ -76,7 +78,8 @@ button will place your request in the "Notification" queue of the existing admin
 
 ![requestNotif]({{site.url}}/{{site.baseurl}}/assets/resources-welcome/requestNotif.png)
 
-The approver will need to manually visit this page on **their** account. The Notification page can be accessed from the main side menu.
+The approver will need to manually visit this page on **their** account. **The Notification page can be accessed from the main side menu by
+navigating to the relevant org**.
 
 (Note: As of version 1.2, admins will *not* receive a typical push notification. Alert existing admins yourself after sending this request, or they
   may not realize you've sent this request).
@@ -135,13 +138,16 @@ on the Explore page include: "Tonight", "Events Following", "Orgs You'll Love", 
 <a id="sideMenu"></a>
 <h2>Side Menu</h2>
 The side menu is the main method of navigating between pages in Parade. Tapping the profile photo will
-open your User Profile. Tapping the blue button will toggle between your personal account, and the account you
-hold on behalf of the orgs you manage.
-
-You can access this menu by pressing the "hamburger button", or by sliding from the left.
+open your User Profile. You can access this menu by pressing the "hamburger button", or by sliding from the left.
 Dismiss the menu by tapping the right of the screen, or by sliding away.
 
-![sideMenu]({{site.url}}/{{site.baseurl}}/assets/resources-welcome/sideMenu.png)
+![sideMenu-user]({{site.url}}/{{site.baseurl}}/assets/resources-welcome/sideMenu-user.png)
+
+
+Tapping the blue button will toggle between your personal account, and the account you
+hold on behalf of the orgs you manage.
+
+![sideMenu-org]({{site.url}}/{{site.baseurl}}/assets/resources-welcome/sideMenu-org.png)
 
 <a id="feedback"></a>
 <h2>Leave Feedback (Please!)</h2>
