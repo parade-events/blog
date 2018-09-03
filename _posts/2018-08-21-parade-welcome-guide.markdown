@@ -19,6 +19,8 @@ on that section in the table of contents.
 
 If you're a Northeastern student, you can download the iOS app NOW by [clicking here](https://itunes.apple.com/us/app/parade-events/id1380171412?ls=1&mt=8)!
 
+Edit: We're now on the [Android Play Store](https://play.google.com/store/apps/details?id=com.parade) as well!
+
 ![betaAd]({{site.url}}/{{site.baseurl}}/assets/resources-welcome/betaAd.png)
 
 
