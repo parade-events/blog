@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Parade and the Husky Startup Challenge"
+date:   2018-10-03
+author: Casey Paxton
+authorLink: https://www.linkedin.com/in/casey-paxton-585069138/
+categories: update
+permalink: /husky-startup/
+
+---
+
+A week ago, the Parade Team had the honor of speaking at this year’s first workshop in Northeastern’s fast-track to startup fame, the Husky Startup Challenge (HSC).  Hosted by [Entrepreneurs Club](http://www.northeastern.edu/entrepreneurs/programs/), HSC guides participants on how to transform their wildest ideas into a business through a series of bootcamps, workshops, and networking events. And on Saturday, we here at Parade were able to share our story about how we got here, where we’re headed, and lessons we’ve learned along the way. Didn’t get a chance to come here us speak live? No worries! We’ve compiled the three most critical takeaways that we touched on.
+
+# Just Get Started
+
+So you’ve got the next big idea for an app or startup. What now? One of the things people seem to struggle with the most is just getting started.  You may relate well to [Carter Tune](https://www.linkedin.com/in/carter-tune-14a287127/), our co-founder and tech lead who brainstormed the concept of Parade years ago, but didn’t feel he had the resources to start the project alone.  His best piece of advice?  Start today.  It can be nerve-wracking to take your idea and begin making it something real and tangible, but if you don’t take that first step, you’ll never know what your idea could achieve!
+And don’t worry about making the first iteration of your product absolutely perfect. During our presentation Carter also shared one of his favorite quotes from co-founder of LinkedIn, Reid Hoffman: “If you are not embarrassed by your first version of your product, you’ve launched too late.” The idea here is that even if your product is not perfect or not exactly what you envisioned, just launch it anyway so that you can get valuable feedback and learn what your consumers want and don’t want.  The longer you wait, the more likely it is that someone else is working to solve the same issue, so don’t be afraid to just get started!
+
+# Learn, Plan, Build
+
+You’re ready to get started--to sit down and figure out how to make your idea a reality.  But you run into one small problem: you’ve never done this before.  How do you write an application with software you’ve never used?  How do you build a product without any engineering or design experience?  It is time to learn.  And you are capable of that!  There are many resources available to teach you the necessary skills for building upon your idea by yourself.  For example, our Dev Team used [Udemy.com](https://udemy.com/) to learn React Native, the specific platform which Parade is built upon.  Like many educational resources, Udemy lets users take a wide variety of courses for less than $15 each.
+
+Even though you now have the skills you need, it’s not quite time to build yet. First, you need to create a plan to help you figure out the direction for your app. Building a product is going to be hectic, disjointed, and unorganized if you don’t have an idea of where it’s going and what to focus on at different times. When our early Parade team was developing a plan, they had lots of ideas and features that they wanted to put in the app, but they had to prioritize and figure out what the app truly needed and how it could provide the most value to the users. A set plan will not only help you focus your work and prioritize different tasks, but it will also streamline your whole process and will help you create the best possible product.
+Now that you have the necessary skills and a set, organized plan, it’s finally time to start building! Use what you’ve learned and follow your plan to create a product that you’re proud of and that will provide value to your consumer.
+
+# Grow Your Team
+
+Alright, so you’ve got to work on your product, and you’re working hard. Great job! But soon you may realize that there’s more work to do than you can manage, or you’re at a roadblock with a particular aspect of your business.  Looks like you may need some brain power.  You may be wary of allowing someone else to begin shaping your business’ direction, but fear not!  There are many critical benefits to growing your team.  Parties of >1 are more fun.
+
+Bringing in different people to help with various aspects of your business is one of the most important things you can do. You may be great at building your product, but that’s not going to matter much if you aren’t dually working hard to ensure people know about your product. Is the product as optimal as it could be?  Are you also working toward the bigger picture of your business, exploring partnerships and investments?  When you find people with other areas of expertise, they can complement yours and ultimately benefit your business.  It may be difficult to find free work, but if you’re passionate about solving a problem, chances are someone else will be, too.
+
+Thanks so much to the Husky Startup Challenge for having us! Stay tuned for future blog posts about how Parade got started, and why you need Parade in your life.
+Have YOU joined the Parade? Download our app now on your [iOS](https://itunes.apple.com/us/app/parade-events/id1380171412) or [Android](https://play.google.com/store/apps/details?id=com.parade) device, and make sure you follow us on Instagram ([@ParadeApp](https://instagram.com/paradeapp)) to keep up to date!
