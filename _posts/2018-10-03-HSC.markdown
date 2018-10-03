@@ -2,8 +2,7 @@
 layout: post
 title:  "Parade and the Husky Startup Challenge"
 date:   2018-10-03
-author: Casey Paxton
-authorLink: https://www.linkedin.com/in/casey-paxton-585069138/
+author: Casey Paxton & Kathleen Ballard
 categories: update
 permalink: /husky-startup/
 
