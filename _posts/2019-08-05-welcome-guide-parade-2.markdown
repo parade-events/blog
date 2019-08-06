@@ -171,7 +171,7 @@ typing.
 The Explore page is the central hub of Parade! At the top of the Explore page is the
 current day's Spotlight. This event is curated algorithmically, or by Parade staff. The
 Explore page is meant to be dynamic and curated to your personal tastes (specified by the
-tags you've chosen).  Some sub-categories on the Explore page include: Events Following",
+tags you've chosen).  Some sub-categories on the Explore page include: "Events Following",
 "Orgs You'll Love", "Top Events", and "Explore Tags".
 
 <a id="dashboard"></a>
