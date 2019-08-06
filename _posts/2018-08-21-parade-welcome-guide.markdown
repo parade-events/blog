@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Parade Welcome Guide"
+title:  "[Old] Parade Welcome Guide"
 date:   2018-08-21
 author: Josh Spicer
 authorLink: https://joshspicer.com
 categories: update
-permalink: /welcome-guide/
 
 ---
 
-> Welcome to Parade!
+> This is the legacy welcome guide for our first iteration of Parade.  **[Click HERE for our updated welcome guide](https://parade.events/blog/welcome-guide/)**.
 
 Everybody on The Parade Team is *so* excited to get Parade in the hands of students! We're calling this initial launch our "Beta Phase", where
 we encourage student leaders to add their organizations, and for all students to get a feel for how to navigate the app before the fall!
