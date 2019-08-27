@@ -56,7 +56,7 @@ The Parade Team reserves the right to invalidate any entry for any reason, but w
 
 This giveaway is not sponsored by, or affiliated with, Rebecca's Cafe or Northeastern University.
 
-the contest will run from **August 28th, 2019** to **September 13th, 2019**.  Entries will only be recorded between these dates.  The dates may be adjusted due to unforseen circumstances.
+The contest will run from **August 28th, 2019** to **September 13th, 2019**.  Entries will only be recorded between these dates.  The dates may be adjusted due to unforseen circumstances.
 
 Parade reserves the right to cancel the contest at anytime due to unforeseen circumstances, or alter any of the guidelines stated above.  This page will be updated with any alterations to the contest.  For further info, please [contact our team](mailto:team@parade.events).  Thanks!
 
