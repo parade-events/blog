@@ -11,6 +11,8 @@ permalink: /v1.4/
 
 THANK YOU for all the feedback so far! We've been working hard to add requested features, as well as polish up the app before the fall semester begins.
 
+
+```
 Changes
 — Added “Edit Org” screen for admins.
 — Added Unified Notifications
@@ -39,5 +41,5 @@ Fixes
 — Added padding on MiniEvents
 — Fixed Back button
 — Probably lots more…
-
-If you found an issue that wasn’t listed here - PLEASE let us know! (visit: parade.events/#contact)
+```
+If you found an issue that wasn’t listed here - PLEASE [let us know](mailto:feedback@parade.events)!
