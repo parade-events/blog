@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "Adding your Org to Parade (An E-board Guide)"
+date:   2019-08-20
+author: Josh Spicer
+authorLink: https://joshspicer.com
+categories: update
+permalink: /eboard/
+
+---
+> Parade is fueled by student leaders sharing what they're passionate about.  
+
+# Who
+
+This post is aimed at student leaders at Northeastern.  I'll explain how you can share your hard work with Parade and the Northeastern community.
+
+First of all, Parade is (at the moment) only for **student organizations recognized by Northeastern's Center for Student Involvement, or an NU college**.  Exceptions can be made for other organizations if they fall within a similar category (just [email us](mailto:team@parade.events)).  All orgs are reviewed by members of Parade before displayed publicly.
+
+If you created an org on campus, have been elected to a org's eboard, or are administration in charge of a college or org - keep reading!
+
+# How
+
+Parade is a free app you can download on [iOS](https://parade.events/ios) or [Android](https://parade.events/android).  From there, you'll need to sign in with your university gmail account.  
+
+You can add your org in two places:
+
+1. When you create your personal account. You'll be walked through the process!
+
+2. After logging into the app, by pressing the `+` button on the bottom, and select `Create new Org`.  
+
+If you're already the admin of another NU club, you'll need to click the org selector on *top* of the Create Event (`+`) page to find the `Create new Org` button!
+
+You can be registered as admin for an unlimited number of NU clubs.
+
+> Important Note: Designate one person from your org’s e-board to create the Parade page.
+
+Only *one person* need to ever create an organization on Parade.  The creator of the org will be automatically made an admin.  Admins can post/edit events on behalf of the org.  Others can be **added as admin** after the org is created once.
+
+## Requesting admin on existing org
+
+To become an admin of an existing Parade, you'll need to **request admin**.
+
+This is easy to do! First, visit the org's profile page.  
+
+At the bottom of every org is a button titled "Request Admin". Tapping that button will place your
+request in the "Notification" queue of the existing admin(s).
+
+![req]({{site.url}}/{{site.baseurl}}/assets/resources-welcome-2/Request-Admin.png)
+
+The admin request will be sent to **all existing admins**, where they can approve or decline.
+
+## Approving new admins
+
+The approver will need to visit the notification page within the app. The Notification page can be found by navigating to Parade's homepage and selecting the **BELL ICON** in the top right corner. The notification bell turns red when an admin has a notification.  
+
+Admins will only receive a push notification if these are enabled in settings, so be sure to let an existing club admin know that you have sent the request!
+
+![Admin]({{site.url}}/{{site.baseurl}}/assets/resources-welcome-2/Admin-Approval.png)
+
+# What do I post?
+
+In short - any event that Northeastern members can attend!  
+
+We invite you to post events both big and small, from weekly "check-up" meetings to large-scale, ticketed events.  Any event you add to Parade will greatly increase the amount of people knowing about your event!
+
+Many clubs maintain a mailing list and send updates to club members that way.  We recommend adding your events to Parade at the same time (and linking to your Parade event in case details change later!)
