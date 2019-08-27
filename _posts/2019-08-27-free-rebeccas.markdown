@@ -12,9 +12,7 @@ permalink: /free-rebeccas/
 
 ## Giveaway
 
-Rebecca's Cafe is a staple of student life at Northeastern. Parade aims to get people more involved on campus by sharing student-run events with the community. 
-
-We want everybody to get more involved on campus and give thanks to the orgs already posting their events.  Our idea - a contest. The grand prize - **a month of Rebecca's lunch paid by us** 🎉
+We at Parade want everybody to get more involved on campus this semester, and also want to give thanks and reward the orgs already posting their events.  Our idea - a contest. The grand prize - **a month of Rebecca's lunch paid by us** 🎉
 
 
 ![photo-2]({{site.url}}/{{site.baseurl}}/assets/resources-free-rebeccas/sandwich.jpg)
