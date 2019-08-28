@@ -23,7 +23,9 @@ It's easy to get more entries! Here's all the ways:
 
 ![photo-2]({{site.url}}/{{site.baseurl}}/assets/resources-free-rebeccas/ways-to-win.png)
 
-Remember, you must be a designated member (member of club e-board, etc...) of an **NU-recognized student org** to create an organization and post events on Parade (more details below).
+Remember, you must be a designated member (member of e-board, etc.) of an **NU-recognized student org** to create an organization and post events on Parade (more details below).
+
+Our instagram post is over on our page [@paradeapp](https://www.instagram.com/p/B1tV-S0lRgo/?igshid=ewvuqr9r83qx)!
 
 ## What is Parade, anyway?
 
