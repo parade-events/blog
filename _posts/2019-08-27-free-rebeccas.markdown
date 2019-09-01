@@ -10,6 +10,11 @@ permalink: /free-rebeccas/
 > If you're like us, you eat at [Rebecca's Cafe](http://rebeccascafe.com) almost every day.  Join Parade, and let us
 > buy your lunch for a month!
 
+*TL;DR: Download here:*
+
+- [iOS](https://parade.events/ios)
+- [Android](https://parade.events/android) 
+
 ## Giveaway
 
 We at Parade want everybody to get more involved on campus this semester, and also want to give thanks and reward the orgs already posting their events.  Our idea - a contest. The grand prize - **a month of Rebecca's lunch paid by us** 🎉
