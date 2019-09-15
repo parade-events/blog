@@ -7,6 +7,9 @@ categories: update
 permalink: /free-rebeccas/
 
 ---
+
+**NOTE: Thank you all for entering! This contest is now OVER. Be sure to follow us on instagram [@paradeapp](https://www.instagram.com/paradeapp) for more giveaways.**
+
 > If you're like us, you eat at [Rebecca's Cafe](http://rebeccascafe.com) almost every day.  Join Parade, and let us
 > buy your lunch for a month!
 
