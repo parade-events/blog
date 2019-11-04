@@ -7,8 +7,16 @@ categories: update
 permalink: /free-rebeccas/
 
 ---
+
+**NOTE: Thank you all for entering! This contest is now OVER. Be sure to follow us on instagram [@paradeapp](https://www.instagram.com/paradeapp) for more giveaways.**
+
 > If you're like us, you eat at [Rebecca's Cafe](http://rebeccascafe.com) almost every day.  Join Parade, and let us
 > buy your lunch for a month!
+
+*TL;DR: Download here:*
+
+- [iOS](https://parade.events/ios)
+- [Android](https://parade.events/android) 
 
 ## Giveaway
 
@@ -23,7 +31,9 @@ It's easy to get more entries! Here's all the ways:
 
 ![photo-2]({{site.url}}/{{site.baseurl}}/assets/resources-free-rebeccas/ways-to-win.png)
 
-Remember, you must be a designated member (member of club e-board, etc...) of an **NU-recognized student org** to create an organization and post events on Parade (more details below).
+Remember, you must be a designated member (member of e-board, etc.) of an **NU-recognized student org** to create an organization and post events on Parade (more details below).
+
+Our instagram post is over on our page [@paradeapp](https://www.instagram.com/p/B1tV-S0lRgo/?igshid=ewvuqr9r83qx)!
 
 ## What is Parade, anyway?
 
